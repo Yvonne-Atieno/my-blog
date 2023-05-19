@@ -1,0 +1,75 @@
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    align-items: center;
+}
+/* .nav{
+    display: grid;
+    grid-template-columns: repeat(11,1fr);
+    margin-top: 30px;
+     align-items: center;
+     margin-left: 12%;
+} */
+.nav img{
+    width: 50%;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    grid-template-columns: repeat(11,1fr);
+    /* margin-top: 30px; */
+}
+.nav button{
+    color: rgb(8, 1, 1);
+    background-color: rgb(63, 223, 57);
+    width: 60%;
+    height: 5vh;
+    border-radius: 10px;
+    border: none;
+}
+.image1{
+
+
+}
+#LOGIN{
+    background-color: chartreuse;
+    
+}
+#sign{
+    background-color: chartreuse;
+    
+    
+}
+.head{
+    padding-left: 40%;
+}
+.imag2{
+ /* margin-left: 29%; 
+ margin-top: -40%;   */
+}
+.image img{
+    height: 200px;
+    height: 200px;
+}
+.image{
+    display: flex;
+    gap: 2%;
+}
+
